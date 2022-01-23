@@ -34,5 +34,5 @@ void loop() {
   }
   
   
- //Serial.print(PWM_CZAS_HIGH);Serial.println(PWM_CZAS_LOW);  
-}
+ //Serial.println(PWM_CZAS_LOWDIV);
+ }
